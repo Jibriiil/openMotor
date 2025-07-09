@@ -57,7 +57,7 @@ unitTable = [
     ('(m*Pa)/s', '(in*psi)/s', 0.00571014715),
 
     ('m/(s*Pa)', 'thou/(s*psi)', 271447138),
-    ('m/(s*Pa)', 'um/(s*mPa)', 1E9),
+    ('m/(s*Pa)', 'um/(s*mPa)', 1E3),
 
     ('m/(s*Pa^n)', 'in/(s*psi^n)', 39.37), # Ratio converts m/s to in/s. The pressure conversion must be done separately
     ('m/(s*Pa^n)', 'mm/(s*Pa^n)', 1000)
